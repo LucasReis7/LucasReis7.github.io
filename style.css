@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(230, 186, 92);
+  }
+  .meuNome, .descricao {
+    font-size: 32px;
+    font-style: oblique;
+    font-family: monospace;
+  }
+  .javascript{
+    font-size: 26px;
+  }
+  .sql{
+    font-size: 24px;
+  }
+  .react{
+    font-size: 22px;
+  }
+  .bootstrap{
+    font-size: 20px;
+  }
+  .metodologiasAgil{
+    font-size: 18px;
+  }
